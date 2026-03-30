@@ -6,7 +6,7 @@
 
 **A Simple and Smart Tool for Managing Duplicate Files**
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square)](https://github.com/CairoSoftware/cairo-duplicate-finder/releases/latest)
+[![Version](https://img.shields.io/badge/Version-2.0.0-blue?style=flat-square)](https://github.com/CairoSoftware/cairo-duplicate-finder/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square)](https://www.cairosoftware.com)
 [![Free](https://img.shields.io/badge/Price-Free-brightgreen?style=flat-square)](https://www.cairosoftware.com)
